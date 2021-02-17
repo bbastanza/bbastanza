@@ -1,6 +1,6 @@
 ## <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="30px" height="auto" /> Brian Bastanza
 
-I am a full stack web developer and I love seeing new projects come to life. Every new project that I have built has posed more challenges than the last and every win has proven more rewarding. I am always looking for new ways to deliver more polished projects, to be more efficient and to find ways to write more elegant code.
+I am a full stack web developer and I love seeing new projects come to life. Every new project that I have built has posed more challenges than the last and every win has proven more rewarding. I am always looking for new ways to deliver more polished projects, be more efficient and find ways to write more elegant code.
 
 
 ### ⚡ Technologies
