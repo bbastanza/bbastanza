@@ -1,12 +1,13 @@
-## Brian Bastanza <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="20px" height="auto" />
+## <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="20px" height="auto" /> Brian Bastanza
 
 I am a full stack web developer and I love seeing new projects come to life. Every new project that I have built has posed more challenges than the last and every win has proven more rewarding. I am always looking for new ways to deliver more polished projects, to be more efficient and to find ways to write more elegant code.
 
 
 ### ⚡ Technologies
-Talk to me about
+
 - Backend Web Development- **ASP.NET, C#, PostgreSQL**
-- Frontend Web Development- **React,TypeScript, JavaScript, HTML, CSS**
+- Frontend Web Development- **React, TypeScript, JavaScript, HTML, CSS**
+- Deployment- **Microsoft Azure, Heroku, Netlify**
 - Linux
 
 
