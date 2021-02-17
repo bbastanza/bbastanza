@@ -1,4 +1,4 @@
-## Brian Bastanza<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Brian Bastanza  
 
 I am a full stack web developer and I love seeing new projects come to life. Every new project that I have built has posed more challenges than the last and every win has proven more rewarding. I am always looking for new ways to deliver more polished projects, to be more efficient and to find ways to write more elegant code.
 
