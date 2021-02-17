@@ -34,4 +34,4 @@ Badge](https://img.shields.io/badge/Portfolio-orange)](https://www.brianbastanza
 [![Gmail
 Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.bastanza@gmail.com)](mailto:b.bastanza@gmail.com)
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1152224/screenshots/3259548/legalario-dribbble.gif" />
