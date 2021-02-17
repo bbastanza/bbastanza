@@ -1,4 +1,4 @@
-## <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="20px" height="auto" /> Brian Bastanza
+## <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Github-icon.png" width="30px" height="auto" /> Brian Bastanza
 
 I am a full stack web developer and I love seeing new projects come to life. Every new project that I have built has posed more challenges than the last and every win has proven more rewarding. I am always looking for new ways to deliver more polished projects, to be more efficient and to find ways to write more elegant code.
 
@@ -11,19 +11,19 @@ I am a full stack web developer and I love seeing new projects come to life. Eve
 - Linux
 
 
-<code><img height="20"
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20"
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20"
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20"
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20"
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20"
+<code><img height="40"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ###  📫 How to reach me:
